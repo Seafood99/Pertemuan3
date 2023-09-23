@@ -1,0 +1,10 @@
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Form1.resources
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+D:\KULIAH\Semester 3\Pemrog Lanjut Praktikum\Pertemuan 3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
